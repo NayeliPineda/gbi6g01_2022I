@@ -1,0 +1,123 @@
+262. Artificial mouse mIL2 gene for interleukin 2
+12324. cDNA encoding mouse interleukin 6 receptor protein
+14748. PM_BWt0028H04f PM_BWtestis Peromyscus maniculatus bairdii cDNA similar to mouse interleukin 1 family, member 6 or rat interleukin 1 family, member 6 (predicted), mRNA sequence
+14749. PM_BWp0024D02 PM_BWPOLSplacenta Peromyscus mixed library cDNA similar to mouse interleukin 2 receptor, beta chain or rat interleukin 2 receptor, beta chain, mRNA sequence
+51720. HSAAABIRO S, Human foetal Adrenals tissue Homo sapiens cDNA similar to (Genbank M84340) mouse interleukin 10 (il10) gene, complete cds, mRNA sequence
+52395. BB234920 RIKEN full-length enriched mouse cDNA library, C57BL/6J thymus 3 days neonate Mus musculus cDNA clone A630052B02 3' similar to X07962 Mouse mRNA for interleukin 7, mRNA sequence
+52646. me42d02.r1 Soares mouse embryo NbME13.5 14.5 Mus musculus cDNA clone IMAGE:390147 5' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+52647. mb49b11.r1 Soares mouse p3NMF19.5 Mus musculus cDNA clone IMAGE:332733 5' similar to PIR:A49031 A49031 interleukin 1 receptor antagonist - mouse, mRNA sequence
+52710. hbc747 Human pancreatic islet Homo sapiens cDNA clone hbc747 3'end similar to interleukin 10 (mouse), mRNA sequence
+53346. LL6in22010 AFT024-subtracted library Mus musculus cDNA 5' similar to mPLK (mouse Pelle-like protein kinase) / interleukin 1 receptor-associated kinase (Il1rak), mRNA sequence
+53347. LL6in22357 AFT024-subtracted library Mus musculus cDNA 5' similar to mPLK (mouse Pelle-like protein kinase) / interleukin 1 receptor-associated kinase (Il1rak), mRNA sequence
+53348. LL6in10393T7 AFT024-subtracted library Mus musculus cDNA 5' similar to mPLK (mouse Pelle-like protein kinase) / interleukin 1 receptor-associated kinase (Il1rak), mRNA sequence
+53350. LL6in21855 AFT024-subtracted library Mus musculus cDNA 5' similar to mPLK (mouse Pelle-like protein kinase) / interleukin 1 receptor-associated kinase (Il1rak), mRNA sequence
+53388. pgl1n.pk010.c14 Normalized Liver Library Gallus gallus cDNA clone pgl1n.pk010.c14 5' similar to gi|7110651 ref|NP_034679.1| interleukin 11 receptor, alpha chain 1; locus 2 [Mus musculus] pir|I48343 interleukin-11 receptor alpha-chain precursor - mouse, mRNA sequence
+53395. uv05d06.y1 Soares_mouse_NMGB_bcell Mus musculus cDNA clone IMAGE:3385019 5' similar to TR:O54824 O54824 INTERLEUKIN 16 PRECURSOR. [1], mRNA sequence
+53396. uv05d06.x1 Soares_mouse_NMGB_bcell Mus musculus cDNA clone IMAGE:3385019 3' similar to TR:O70236 O70236 INTERLEUKIN 16 PRECURSOR, mRNA sequence
+53397. mac01f10.y1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:3998730 5' similar to TR:Q00343 Q00343 INTERLEUKIN 6 RECEPTOR, ALPHA PRECURSOR, mRNA sequence
+53398. ut74b09.y1 Soares_mouse_NMGB_bcell Mus musculus cDNA clone IMAGE:3333472 5' similar to TR:O54824 O54824 INTERLEUKIN 16 PRECURSOR. [1], mRNA sequence
+53399. ut65d01.x1 Soares_mouse_NMGB_bcell Mus musculus cDNA clone IMAGE:3332761 3' similar to TR:O70236 O70236 INTERLEUKIN 16 PRECURSOR, mRNA sequence
+53400. ut64h01.x1 Soares_mouse_NMGB_bcell Mus musculus cDNA clone IMAGE:3332952 3' similar to TR:Q00343 Q00343 INTERLEUKIN 6 RECEPTOR, ALPHA PRECURSOR, mRNA sequence
+53402. ut74b09.x1 Soares_mouse_NMGB_bcell Mus musculus cDNA clone IMAGE:3333472 3' similar to TR:O54824 O54824 INTERLEUKIN 16 PRECURSOR. [1], mRNA sequence
+53455. ut65d01.y1 Soares_mouse_NMGB_bcell Mus musculus cDNA clone IMAGE:3332761 5' similar to TR:O70236 O70236 INTERLEUKIN 16 PRECURSOR, mRNA sequence
+53456. ut64h01.y1 Soares_mouse_NMGB_bcell Mus musculus cDNA clone IMAGE:3332952 5' similar to TR:Q00343 Q00343 INTERLEUKIN 6 RECEPTOR, ALPHA PRECURSOR, mRNA sequence
+53474. maa80d03.y1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:3823133 5' similar to SW:RPT1_MOUSE P15533 DOWN REGULATORY PROTEIN OF INTERLEUKIN 2 RECEPTOR, mRNA sequence
+53475. maa76b06.y1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:3822659 5' similar to TR:Q00343 Q00343 INTERLEUKIN 6 RECEPTOR, ALPHA PRECURSOR, mRNA sequence
+53476. maa74e10.y1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:3822451 5' similar to SW:RPT1_MOUSE P15533 DOWN REGULATORY PROTEIN OF INTERLEUKIN 2 RECEPTOR, mRNA sequence
+53477. maa83g05.y1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:3823664 5' similar to SW:RPT1_MOUSE P15533 DOWN REGULATORY PROTEIN OF INTERLEUKIN 2 RECEPTOR, mRNA sequence
+53479. maa69c06.y1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:3821962 5' similar to SW:RPT1_MOUSE P15533 DOWN REGULATORY PROTEIN OF INTERLEUKIN 2 RECEPTOR, mRNA sequence
+53480. maa59b03.y1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:3821116 5' similar to SW:RPT1_MOUSE P15533 DOWN REGULATORY PROTEIN OF INTERLEUKIN 2 RECEPTOR, mRNA sequence
+53481. maa63c04.y1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:3821550 5' similar to SW:RPT1_MOUSE P15533 DOWN REGULATORY PROTEIN OF INTERLEUKIN 2 RECEPTOR, mRNA sequence
+53495. uv58h04.x1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:3411415 3' similar to SW:ILF1_HUMAN Q01167 INTERLEUKIN ENHANCER-BINDING FACTOR 1, mRNA sequence
+53504. uw16a01.y1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:3416808 5' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53552. uq20h02.y1 Ren Stubbs mouse thymus Mus musculus cDNA clone IMAGE:2803059 5' similar to gb:M29854 Mouse interleukin 4 receptor (MOUSE), mRNA sequence
+53553. uq15f04.y1 Ren Stubbs mouse thymus Mus musculus cDNA clone IMAGE:2802559 5' similar to TR:O70236 O70236 INTERLEUKIN 16 PRECURSOR, mRNA sequence
+53554. uq20h02.x1 Ren Stubbs mouse thymus Mus musculus cDNA clone IMAGE:2803059 3' similar to gb:M29854 Mouse interleukin 4 receptor (MOUSE), mRNA sequence
+53557. uq23h02.y1 Ren Stubbs mouse thymus Mus musculus cDNA clone IMAGE:2803347 5' similar to TR:O70236 O70236 INTERLEUKIN 16 PRECURSOR, mRNA sequence
+53558. ur31b09.y1 Soares_mouse_NMBP Mus musculus cDNA clone IMAGE:3025913 5' similar to TR:Q9Z1X4 Q9Z1X4 INTERLEUKIN ENHANCER BINDING FACTOR 3, mRNA sequence
+53559. ur29a08.y1 Soares_mouse_NMBP Mus musculus cDNA clone IMAGE:3025718 5' similar to gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53560. uq16b12.y1 Ren Stubbs mouse thymus Mus musculus cDNA clone IMAGE:2802623 5' similar to TR:O70236 O70236 INTERLEUKIN 16 PRECURSOR, mRNA sequence
+53576. uq49f01.y1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:2921785 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53577. uq49d01.y1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:2921761 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53580. MC8926 mouse liver, vehicle control Mus musculus cDNA clone MC8926 3' similar to U22339 Mus musculus interleukin 15 receptor precurso, mRNA sequence
+53582. un05b07.x1 Sugano mouse kidney mkia Mus musculus cDNA clone IMAGE:2372917 3' similar to TR:Q60819 Q60819 INTERLEUKIN 15 RECEPTOR, ALPHA CHAIN PRECURSOR, mRNA sequence
+53583. un05b07.y1 Sugano mouse kidney mkia Mus musculus cDNA clone IMAGE:2372917 5' similar to TR:Q60819 Q60819 INTERLEUKIN 15 RECEPTOR, ALPHA CHAIN PRECURSOR, mRNA sequence
+53617. uj58d06.y1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1924139 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53618. uj44d08.y1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1922799 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53621. va14d03.x1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:722885 3' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53629. va14d03.y1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:722885 5' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53631. uj64g01.y1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1924752 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53632. mn91f01.x1 Stratagene mouse Tcell 937311 Mus musculus cDNA clone IMAGE:551449 3' similar to gb:D11086 CYTOKINE RECEPTOR COMMON GAMMA CHAIN PRECURSOR (HUMAN); gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53636. ui83g06.y1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1889050 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53637. mr25h02.x1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:598515 3' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53638. mr17a02.x1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:597674 3' similar to gb:M25892 Mus musculus interleukin 4 (MOUSE), mRNA sequence
+53639. vy01f11.y1 Stratagene mouse macrophage (#937306) Mus musculus cDNA clone IMAGE:1294221 5' similar to gb:M34397 Mouse interleukin 3 receptor-like protein (MOUSE), mRNA sequence
+53648. vw68g02.y1 Stratagene mouse heart (#937316) Mus musculus cDNA clone IMAGE:1260146 5' similar to gb:M26062 INTERLEUKIN-2 RECEPTOR BETA CHAIN PRECURSOR (HUMAN); gb:M28052 Mouse interleukin 2 receptor beta-chain mRNA, complete (MOUSE), mRNA sequence
+53651. ml35d11.x1 Stratagene mouse testis (#937308) Mus musculus cDNA clone IMAGE:514005 3' similar to gb:M94654 INTERLEUKIN ENHANCER-BINDING FACTOR (HUMAN), mRNA sequence
+53668. mn91f01.y1 Stratagene mouse Tcell 937311 Mus musculus cDNA clone IMAGE:551449 5' similar to gb:D11086 CYTOKINE RECEPTOR COMMON GAMMA CHAIN PRECURSOR (HUMAN); gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53669. mi53g11.x1 Soares mouse embryo NbME13.5 14.5 Mus musculus cDNA clone IMAGE:467300 3' similar to gb:M94654 INTERLEUKIN ENHANCER-BINDING FACTOR (HUMAN); gb:L26507 Mouse myocyte nuclear factor (MOUSE), mRNA sequence
+53670. mr17a02.y1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:597674 5' similar to gb:M25892 Mus musculus interleukin 4 (MOUSE), mRNA sequence
+53671. mt73c06.x1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:635530 3' similar to gb:M64879 Mouse interleukin 4 receptor gene (MOUSE), mRNA sequence
+53672. mt73c06.y1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:635530 5' similar to gb:M29854 Mouse interleukin 4 receptor (MOUSE), mRNA sequence
+53673. uj46a04.y1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1922958 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53677. ui63d12.y1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1887095 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53681. ui83g06.x1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1889050 3' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53688. ui63d12.x1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1887095 3' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53703. ue95d09.y1 Sugano mouse embryo mewa Mus musculus cDNA clone IMAGE:1498865 5' similar to TR:Q60943 Q60943 INTERLEUKIN 17 RECEPTOR, mRNA sequence
+53704. ue94d09.y1 Sugano mouse embryo mewa Mus musculus cDNA clone IMAGE:1498769 5' similar to TR:Q60943 Q60943 INTERLEUKIN 17 RECEPTOR, mRNA sequence
+53705. ue40f11.x1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1482861 3' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53718. uc76c04.y1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1431558 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53719. ud64d05.y1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1450665 5' similar to gb:M28052 Mouse interleukin 2 receptor beta-chain mRNA, complete (MOUSE), mRNA sequence
+53720. ud64d05.x1 Sugano mouse liver mlia Mus musculus cDNA clone IMAGE:1450665 3' similar to gb:M28052 Mouse interleukin 2 receptor beta-chain mRNA, complete (MOUSE), mRNA sequence
+53729. ua49b12.r1 Stratagene mouse lung 937302 Mus musculus cDNA clone IMAGE:1350047 5' similar to gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53733. ua50b02.r1 Stratagene mouse lung 937302 Mus musculus cDNA clone IMAGE:1350123 5' similar to gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53741. vx52f02.r1 Stratagene mouse macrophage (#937306) Mus musculus cDNA clone IMAGE:1278843 5' similar to gb:M86672 Mus musculus interleukin 12 p35 subunit, complete cds (MOUSE), mRNA sequence
+53742. vy07a08.r1 Stratagene mouse macrophage (#937306) Mus musculus cDNA clone IMAGE:1294742 5' similar to gb:M15330 INTERLEUKIN-1 BETA PRECURSOR (HUMAN); gb:M15131 Mouse interleukin 1-beta (MOUSE), mRNA sequence
+53751. vy01f11.r1 Stratagene mouse macrophage (#937306) Mus musculus cDNA clone IMAGE:1294221 5' similar to gb:M34397 Mouse interleukin 3 receptor-like protein (MOUSE), mRNA sequence
+53754. vw68g02.r1 Stratagene mouse heart (#937316) Mus musculus cDNA clone IMAGE:1260146 5' similar to gb:M26062 INTERLEUKIN-2 RECEPTOR BETA CHAIN PRECURSOR (HUMAN); gb:M28052 Mouse interleukin 2 receptor beta-chain mRNA, complete (MOUSE), mRNA sequence
+53757. vy05f03.r1 Stratagene mouse macrophage (#937306) Mus musculus cDNA clone IMAGE:1294589 5' similar to gb:M15131 Mouse interleukin 1-beta (MOUSE), mRNA sequence
+53762. vr26h06.r1 Barstead mouse myotubes MPLRB5 Mus musculus cDNA clone IMAGE:1121819 5' similar to gb:M94654 INTERLEUKIN ENHANCER-BINDING FACTOR (HUMAN); gb:L26507 Mouse myocyte nuclear factor (MOUSE), mRNA sequence
+53771. vl15d01.r1 Stratagene mouse Tcell 937311 Mus musculus cDNA clone IMAGE:972289 5' similar to gb:D11086 CYTOKINE RECEPTOR COMMON GAMMA CHAIN PRECURSOR (HUMAN); gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53775. vs28e01.r1 Barstead mouse myotubes MPLRB5 Mus musculus cDNA clone IMAGE:1139544 5' similar to gb:X04964 Murine interleukin 1-beta gene (MOUSE), mRNA sequence
+53776. vm51g02.r1 Stratagene mouse Tcell 937311 Mus musculus cDNA clone IMAGE:1001810 5' similar to gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53777. vs48g08.r1 Stratagene mouse Tcell 937311 Mus musculus cDNA clone IMAGE:1149566 5' similar to gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53782. vm61h05.r1 Stratagene mouse Tcell 937311 Mus musculus cDNA clone IMAGE:1002777 5' similar to gb:M37897 Mouse interleukin 10 mRNA, complete cds (MOUSE), mRNA sequence
+53783. vo25f11.r1 Barstead mouse irradiated colon MPLRB7 Mus musculus cDNA clone IMAGE:1050957 5' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53784. vl90g03.r1 Stratagene mouse diaphragm (#937303) Mus musculus cDNA clone IMAGE:987988 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53786. vl30b09.r1 Stratagene mouse Tcell 937311 Mus musculus cDNA clone IMAGE:973721 5' similar to gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53787. vl38g04.r1 Stratagene mouse skin (#937313) Mus musculus cDNA clone IMAGE:974550 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53788. vl38c10.r1 Stratagene mouse skin (#937313) Mus musculus cDNA clone IMAGE:974514 5' similar to gb:L28095 Mouse interleukin 1-beta converting enzyme, complete cds (MOUSE), mRNA sequence
+53790. vk57b10.r1 Stratagene mouse Tcell 937311 Mus musculus cDNA clone IMAGE:958747 5' similar to gb:X04964 Murine interleukin 1-beta gene (MOUSE), mRNA sequence
+53795. vi45f11.r1 Beddington mouse embryonic region Mus musculus cDNA clone IMAGE:906765 5' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53801. vg86a04.r1 Barstead mouse pooled organs MPLRB4 Mus musculus cDNA clone IMAGE:872814 5' similar to gb:M94654 INTERLEUKIN ENHANCER-BINDING FACTOR (HUMAN), mRNA sequence
+53810. vd15b09.s1 Knowles Solter mouse 2 cell Mus musculus cDNA clone IMAGE:792569 5' similar to gb:X07962 Mouse mRNA for interleukin 7 (MOUSE), mRNA sequence
+53901. EST186739 HCC cell line (matastasis to liver in mouse) II Homo sapiens cDNA 5' end similar to similar to interleukin 10 (IL10) intron (mouse), mRNA sequence
+53921. vb32e03.r1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:750652 5' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53922. vb32d09.r1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:750641 5' similar to gb:M86671 Mus musculus interleukin 12 p40 subunit, complete cds (MOUSE), mRNA sequence
+53924. vc48d10.r1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:777811 5' similar to gb:M29854 Mouse interleukin 4 receptor (MOUSE), mRNA sequence
+53925. mz99g06.r1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:721594 5' similar to gb:M64879 Mouse interleukin 4 receptor gene (MOUSE), mRNA sequence
+53926. mz91b11.r1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:720765 5' similar to gb:M86671 Mus musculus interleukin 12 p40 subunit, complete cds (MOUSE), mRNA sequence
+53927. va02b04.r1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:721711 5' similar to gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53928. mz89d09.r1 Soares mouse NML Mus musculus cDNA clone IMAGE:720593 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53930. mz75b06.r1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:719219 5' similar to gb:M94654 INTERLEUKIN ENHANCER-BINDING FACTOR (HUMAN); gb:L26507 Mouse myocyte nuclear factor (MOUSE), mRNA sequence
+53931. va14d03.r1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:722885 5' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53932. mv26e05.r1 GuayWoodford Beier mouse kidney day 0 Mus musculus cDNA clone IMAGE:656192 5' similar to gb:M64879 Mouse interleukin 4 receptor gene (MOUSE), mRNA sequence
+53933. mw98g02.r1 Soares mouse NML Mus musculus cDNA clone IMAGE:678770 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53934. mx95h04.r1 Soares mouse NML Mus musculus cDNA clone IMAGE:694135 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53935. mw96b02.r1 Soares mouse NML Mus musculus cDNA clone IMAGE:678507 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53936. my02b06.r1 Barstead mouse lung MPLRB2 Mus musculus cDNA clone IMAGE:694643 5' similar to gb:M94654 INTERLEUKIN ENHANCER-BINDING FACTOR (HUMAN); gb:L26507 Mouse myocyte nuclear factor (MOUSE), mRNA sequence
+53937. mv01f06.r1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:653795 5' similar to gb:M29854 Mouse interleukin 4 receptor (MOUSE), mRNA sequence
+53938. mw83d07.r1 Soares mouse NML Mus musculus cDNA clone IMAGE:677293 5' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53939. mu60b09.r1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:643769 5' similar to gb:X53802 Mouse mRNA for interleukin 6 receptor (MOUSE), mRNA sequence
+53944. mt93h12.r1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:637511 5' similar to gb:M34397 Mouse interleukin 3 receptor-like protein (MOUSE), mRNA sequence
+53945. mt20c09.r1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:621616 5' similar to gb:M25892 Mus musculus interleukin 4 (MOUSE), mRNA sequence
+53946. ms20c05.r1 Stratagene mouse skin (#937313) Mus musculus cDNA clone IMAGE:607496 5' similar to gb:M94654 INTERLEUKIN ENHANCER-BINDING FACTOR (HUMAN); gb:L26507 Mouse myocyte nuclear factor (MOUSE), mRNA sequence
+53947. mt73c06.r1 Soares mouse lymph node NbMLN Mus musculus cDNA clone IMAGE:635530 5' similar to gb:M64879 Mouse interleukin 4 receptor gene (MOUSE), mRNA sequence
+53948. mr25h02.r1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:598515 5' similar to gb:M16762 Mouse interleukin 2 (MOUSE), mRNA sequence
+53949. mr17a02.r1 Soares mouse 3NbMS Mus musculus cDNA clone IMAGE:597674 5' similar to gb:M25892 Mus musculus interleukin 4 (MOUSE), mRNA sequence
+53956. mp05d08.r1 Life Tech mouse embryo 8 5dpc 10664019 Mus musculus cDNA clone IMAGE:568335 5' similar to gb:X85999 M.musculus mRNA for interleukin 1 receptor accessory (MOUSE), mRNA sequence
+53957. mo59e10.r1 Stratagene mouse Tcell 937311 Mus musculus cDNA clone IMAGE:557898 5' similar to gb:M84746 Mouse interleukin 9 receptor mRNA, complete cds (MOUSE), mRNA sequence
+53958. mn91f01.r1 Stratagene mouse Tcell 937311 Mus musculus cDNA clone IMAGE:551449 5' similar to gb:D11086 CYTOKINE RECEPTOR COMMON GAMMA CHAIN PRECURSOR (HUMAN); gb:D13565 Mouse mRNA for interleukin 2 receptor gamma chain (MOUSE), mRNA sequence
+53965. mi53g11.r1 Soares mouse embryo NbME13.5 14.5 Mus musculus cDNA clone IMAGE:467300 5' similar to gb:M94654 INTERLEUKIN ENHANCER-BINDING FACTOR (HUMAN); gb:L26507 Mouse myocyte nuclear factor (MOUSE), mRNA sequence
+53966. mh46e09.r1 Soares mouse placenta 4NbMP13.5 14.5 Mus musculus cDNA clone IMAGE:445576 5' similar to gb:M94654 INTERLEUKIN ENHANCER-BINDING FACTOR (HUMAN); gb:L26507 Mouse myocyte nuclear factor (MOUSE), mRNA sequence
+53967. mg65c05.r1 Soares mouse embryo NbME13.5 14.5 Mus musculus cDNA clone IMAGE:437864 5' similar to gb:M94654 INTERLEUKIN ENHANCER-BINDING FACTOR (HUMAN), mRNA sequence
